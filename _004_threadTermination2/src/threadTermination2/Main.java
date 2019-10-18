@@ -1,4 +1,4 @@
-package _005_threadTermination2;
+package threadTermination2;
 
 import java.math.BigInteger;
 

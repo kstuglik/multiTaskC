@@ -1,4 +1,4 @@
-package _006_threadJoin;
+package threadJoin;
 
 import java.math.BigInteger;
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package _003_multiExecutor;
+package multiExecutor;
 
 public class Main {
 	public static void main(String[] args) {

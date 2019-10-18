@@ -1,4 +1,4 @@
-package _003_multiExecutor;
+package multiExecutor;
 import java.util.ArrayList;
 import java.util.List;
 

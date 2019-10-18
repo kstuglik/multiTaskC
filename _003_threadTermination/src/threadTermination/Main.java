@@ -1,4 +1,4 @@
-package _004_threadTermination;
+package threadTermination;
 
 public class Main {
 
